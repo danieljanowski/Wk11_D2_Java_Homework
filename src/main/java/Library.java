@@ -22,4 +22,8 @@ public class Library {
             this.stock.add(book);
         }
     }
+
+    public boolean removeBook(Book book) {
+        return this.stock.remove(book);
+    }
 }

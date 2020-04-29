@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b5dd953-427e-4822-b944-6bb8ea7bac98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LibraryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +40,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="All in MultipleClassesHomework" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -80,25 +87,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="653" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1588106042617">
-      <screen x="0" y="23" width="1680" height="961" />
+    <state x="653" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1588141822685">
+      <screen x="0" y="23" width="1680" height="963" />
     </state>
     <state x="653" y="226" key="#com.intellij.ide.util.MemberChooser/0.23.1680.961@0.23.1680.961" timestamp="1588106042617" />
-    <state width="1638" height="258" key="GridCell.Tab.0.bottom" timestamp="1588106373241">
-      <screen x="0" y="23" width="1680" height="961" />
+    <state x="653" y="226" key="#com.intellij.ide.util.MemberChooser/0.23.1680.963@0.23.1680.963" timestamp="1588141822685" />
+    <state width="1638" height="258" key="GridCell.Tab.0.bottom" timestamp="1588144465107">
+      <screen x="0" y="23" width="1680" height="963" />
     </state>
     <state width="1638" height="258" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1588106373241" />
-    <state width="1638" height="258" key="GridCell.Tab.0.center" timestamp="1588106373241">
-      <screen x="0" y="23" width="1680" height="961" />
+    <state width="1638" height="258" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1588144465107" />
+    <state width="1638" height="258" key="GridCell.Tab.0.center" timestamp="1588144465106">
+      <screen x="0" y="23" width="1680" height="963" />
     </state>
     <state width="1638" height="258" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1588106373241" />
-    <state width="1638" height="258" key="GridCell.Tab.0.left" timestamp="1588106373240">
-      <screen x="0" y="23" width="1680" height="961" />
+    <state width="1638" height="258" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1588144465106" />
+    <state width="1638" height="258" key="GridCell.Tab.0.left" timestamp="1588144465106">
+      <screen x="0" y="23" width="1680" height="963" />
     </state>
     <state width="1638" height="258" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1588106373240" />
-    <state width="1638" height="258" key="GridCell.Tab.0.right" timestamp="1588106373241">
-      <screen x="0" y="23" width="1680" height="961" />
+    <state width="1638" height="258" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1588144465106" />
+    <state width="1638" height="258" key="GridCell.Tab.0.right" timestamp="1588144465107">
+      <screen x="0" y="23" width="1680" height="963" />
     </state>
     <state width="1638" height="258" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1588106373241" />
+    <state width="1638" height="258" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1588144465107" />
+    <state x="398" y="77" width="884" height="852" key="find.popup" timestamp="1588142260228">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="398" y="77" width="884" height="852" key="find.popup/0.23.1680.963@0.23.1680.963" timestamp="1588142260228" />
   </component>
 </project>
